@@ -16,5 +16,12 @@
         }
       }
     }
+  },
+  "function": {
+    "nextunicorn8430c102": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
   }
 }

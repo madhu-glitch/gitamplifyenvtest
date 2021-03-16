@@ -10,6 +10,14 @@
       "StackName": "amplify-nextunicorn-dev-132130",
       "StackId": "arn:aws:cloudformation:ap-southeast-2:439331757783:stack/amplify-nextunicorn-dev-132130/529bc620-85fe-11eb-936c-0ad8550c4c44",
       "AmplifyAppId": "dnt73rruh2yuz"
+    },
+    "categories": {
+      "function": {
+        "nextunicorn8430c102": {
+          "deploymentBucketName": "amplify-nextunicorn-dev-132130-deployment",
+          "s3Key": "amplify-builds/nextunicorn8430c102-535078627378795a6859-build.zip"
+        }
+      }
     }
   },
   "test": {
